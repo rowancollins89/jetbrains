@@ -1,0 +1,9 @@
+<templateSet group="SCSS">
+  <template name="mbp" value="@include media-breakpoint-$UP$($SM$) {&#10;    $END$&#10;}" description="Media Breakpoint" toReformat="false" toShortenFQNames="true">
+    <variable name="UP" expression="&quot;up&quot;" defaultValue="up" alwaysStopAt="true" />
+    <variable name="SM" expression="&quot;sm&quot;" defaultValue="sm" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
