@@ -66,6 +66,7 @@
   <action id="EditorUnSelectWord" />
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="shift tab" />
   </action>
   <action id="EditorUpWithSelection" />
   <action id="ExpandLiveTemplateCustom">
@@ -112,6 +113,9 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="PrevParameter" />
+  <action id="PrevTemplateParameter" />
+  <action id="PreviousTemplateVariable" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
