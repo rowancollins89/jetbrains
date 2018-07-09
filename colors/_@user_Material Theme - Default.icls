@@ -4,7 +4,7 @@
     <property name="created">2017-02-16T19:19:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2018-07-09T13:34:11</property>
+    <property name="modified">2018-07-09T14:02:02</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -58,8 +58,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
-    <option name="SELECTION_BACKGROUND" value="314549" />
-    <option name="SELECTION_FOREGROUND" value="" />
+    <option name="SELECTION_BACKGROUND" value="938a04" />
+    <option name="SELECTION_FOREGROUND" value="0" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="3b4950" />
     <option name="WHITESPACES" value="2e3c43" />
