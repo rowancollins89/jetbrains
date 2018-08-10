@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="sto" value="setTimeout(() =&gt; { &#10;    $END$ &#10;}, $TIME$);&#10;" description="setTimeOut()" toReformat="false" toShortenFQNames="true">
+    <variable name="TIME" expression="&quot;Time(ms)&quot;" defaultValue="1000" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
+</templateSet>
