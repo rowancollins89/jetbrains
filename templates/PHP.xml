@@ -1,0 +1,24 @@
+<templateSet group="PHP">
+  <template name="hs" value="new Section('$KEY$', [&#10;    'title' =&gt; '$TITLE$',&#10;    'attributes' =&gt; [&#10;        $END$&#10;    ]&#10;])" description="Hatchly Section" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="&quot;KEY&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="TITLE" expression="&quot;TITLE&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ha" value="new Attribute('$KEY$', [&#10;    'title' =&gt; '$TITLE$',&#10;], '$TYPE$'),&#10;$END$" description="Hatchly Attribute" toReformat="true" toShortenFQNames="true">
+    <variable name="KEY" expression="&quot;KEY&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="TITLE" expression="&quot;TITLE&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="&quot;TYPE&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="hrs" value="new RepeatableSection('$KEY$', [&#10;    'title' =&gt; '$TITLE$',&#10;    'attributes' =&gt; [&#10;        $END$&#10;    ]&#10;])" description="Hatchly Repeatable Section" toReformat="true" toShortenFQNames="true">
+    <variable name="KEY" expression="&quot;KEY&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="TITLE" expression="&quot;TITLE&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
