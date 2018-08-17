@@ -5,6 +5,7 @@
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="hot" type="PLAIN_TEXT" />
       <mapping pattern="hgfds" type="Vue.js" />
+      <mapping ext="gql" type="YAML" />
     </extensionMap>
   </component>
 </application>
