@@ -16,5 +16,6 @@
     <mask>*.vue</mask>
     <mask>*.php</mask>
     <mask>*.less</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
