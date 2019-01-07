@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,10 +17,10 @@
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.liquid</mask>
-    <mask>*.scss</mask>
     <mask>*.vue</mask>
     <mask>*.coffee</mask>
     <mask>*.blade.php</mask>
     <mask>*.less</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
