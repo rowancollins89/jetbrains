@@ -3,15 +3,15 @@
     <extensionMap>
       <mapping pattern="practice-create" type="Blade" />
       <mapping pattern="*.css.liquid" type="CSS" />
+      <mapping ext="gql" type="GraphQL Schema" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
-      <mapping pattern=".modernizrrc" type="PLAIN_TEXT" />
-      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="hot" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern=".modernizrrc" type="PLAIN_TEXT" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping ext="liquid" type="Twig" />
-      <mapping pattern="AddCollaborators" type="Vue.js" />
       <mapping pattern="hgfds" type="Vue.js" />
-      <mapping ext="gql" type="YAML" />
+      <mapping pattern="AddCollaborators" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
