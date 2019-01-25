@@ -11,13 +11,13 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.liquid</mask>
-    <mask>*.vue</mask>
     <mask>*.coffee</mask>
     <mask>*.less</mask>
     <mask>*.blade.php</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
