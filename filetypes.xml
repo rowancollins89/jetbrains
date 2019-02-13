@@ -12,6 +12,7 @@
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping ext="liquid" type="Twig" />
       <mapping pattern="AddCollaborators" type="Vue.js" />
+      <mapping pattern="AdditionalEmailInput" type="Vue.js" />
       <mapping pattern="hgfds" type="Vue.js" />
     </extensionMap>
   </component>
