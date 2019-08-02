@@ -11,6 +11,7 @@
       <mapping ext="liquid" type="Twig" />
       <mapping pattern="AddCollaborators" type="Vue.js" />
       <mapping pattern="AdditionalEmailInput" type="Vue.js" />
+      <mapping pattern="icon" type="Vue.js" />
       <mapping pattern="hgfds" type="Vue.js" />
       <mapping ext="gql" type="GraphQL Schema" />
     </extensionMap>
