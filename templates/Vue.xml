@@ -1,5 +1,6 @@
 <templateSet group="Vue">
-  <template name="sco" value="&lt;style lang=&quot;scss&quot; scoped&gt;&#10;    $END$&#10;&lt;/style&gt;" description="style tag scss scoped" toReformat="false" toShortenFQNames="true">
+  <template name="sco" value="&lt;style lang=&quot;$LANG$&quot; scoped&gt;&#10;    $END$&#10;&lt;/style&gt;" description="style tag scss scoped" toReformat="false" toShortenFQNames="true">
+    <variable name="LANG" expression="&quot;scss&quot;" defaultValue="scss" alwaysStopAt="true" />
     <context>
       <option name="Vue" value="true" />
     </context>
