@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="c31040d0-e124-4e81-ad06-27d656c42fbb" name="rowbi-wan">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
