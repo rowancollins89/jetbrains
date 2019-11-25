@@ -12,6 +12,7 @@
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping ext="liquid" type="Twig" />
+      <mapping pattern="SessionActions" type="Vue.js" />
       <mapping pattern="AddCollaborators" type="Vue.js" />
       <mapping pattern="icon" type="Vue.js" />
       <mapping pattern="hgfds" type="Vue.js" />
