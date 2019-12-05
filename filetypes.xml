@@ -17,7 +17,7 @@
       <mapping pattern="icon" type="Vue.js" />
       <mapping pattern="hgfds" type="Vue.js" />
       <mapping pattern="AdditionalEmailInput" type="Vue.js" />
-      <mapping ext="gql" type="GraphQL Schema" />
+      <removed_mapping ext="gql" type="Graql" />
     </extensionMap>
   </component>
 </application>
