@@ -6,4 +6,10 @@
       <option name="CSS" value="true" />
     </context>
   </template>
+  <template name="deep" value="/deep/ {&#10;    $ENDS$&#10;}" description="/deep/  wrapper" toReformat="false" toShortenFQNames="true">
+    <variable name="ENDS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>
