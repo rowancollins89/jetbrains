@@ -46,9 +46,6 @@
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="2" />
     <option name="WRAP_COMMENTS" value="true" />
-    <indentOptions>
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
-    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="LESS">
     <indentOptions>
