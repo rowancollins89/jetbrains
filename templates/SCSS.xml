@@ -12,4 +12,21 @@
       <option name="CSS" value="true" />
     </context>
   </template>
+  <template name="buva" value="//@include button-variant($background, $border, $hover-background: darken($background, 7.5%), $hover-border: darken($border, 10%), $active-background: darken($background, 10%), $active-border: darken($border, 12.5%))&#10;@include button-variant($background$, $border$);&#10;$END$" description="button-variant" toReformat="false" toShortenFQNames="true">
+    <variable name="background" expression="&quot;Background&quot;" defaultValue="'Background'" alwaysStopAt="true" />
+    <variable name="border" expression="&quot;Border color&quot;" defaultValue="'Border'" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="busi" value="//@include button-size($padding-y, $padding-x, $font-size, $line-height, $border-radius);&#10;@include button-size($paddingY$, $paddingX$, $fontSize$, $lineHeight$, $borderRadius$);&#10;$END$" description="button-size" toReformat="false" toShortenFQNames="true">
+    <variable name="paddingY" expression="&quot;padding-y&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="paddingX" expression="&quot;padding-x&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="fontSize" expression="&quot;font-size&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="lineHeight" expression="&quot;line-height&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="borderRadius" expression="&quot;border-radius&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>
